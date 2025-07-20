@@ -41,7 +41,7 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="functions.php">Functions</a></li>
             <li><a class="dropdown-item" href="arrays.php">Arrays</a></li>
-            <li><a class="dropdown-item" href="strings.php">Strings</a></li>
+            <li><a class="dropdown-item" href="/Learnphp/Functions&Arrays/strings.php">Strings</a></li>
           </ul>
         </li>
 
