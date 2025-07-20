@@ -1,10 +1,10 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="../LEARNPHP/index.php">PHP Tutorials</a>
+    <a class="navbar-brand" href="/Learnphp/index.php">PHP Tutorials</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
-    
+
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
 
@@ -14,10 +14,10 @@
             Basics
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/LEARNPHP/Basics/Introduction.php">Introduction</a></li>
-            <li><a class="dropdown-item" href="/LEARNPHP/Basics/Variables.php">Variables</a></li>
-            <li><a class="dropdown-item" href="datatypes.php">Data Types</a></li>
-            <li><a class="dropdown-item" href="operators.php">Operators</a></li>
+            <li><a class="dropdown-item" href="/Learnphp/Basics/Introduction.php">Introduction</a></li>
+            <li><a class="dropdown-item" href="/Learnphp/Basics/Variables.php">Variables</a></li>
+            <li><a class="dropdown-item" href="/Learnphp/Basics/datatypes.php">Data Types</a></li>
+            <li><a class="dropdown-item" href="/Learnphp/Basics/operators.php">Operators</a></li>
           </ul>
         </li>
 
